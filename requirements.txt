@@ -1,0 +1,9 @@
+beautifulsoup4==4.13.4
+clip==1.0
+matplotlib==3.10.1
+numpy==2.2.5
+Pillow==11.2.1
+scikit_learn==1.6.1
+selenium==4.31.0
+torch==2.6.0
+umap_learn==0.5.7
